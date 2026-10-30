@@ -1,19 +1,9 @@
-AŞKİTOM – ilkin prototip
+AŞKİTOM – yenilənmiş premium görünüş (31 oktyabr 2026)
 
-Bu paket Android telefonda quraşdırıla bilən PWA prototipinin fayllarıdır.
-Quraşdırmaq üçün faylları HTTPS dəstəkləyən hostinqə yerləşdirmək lazımdır.
-Sonra Honor X9b-də Chrome ilə ünvanı açıb menyudan "Add to Home screen" / "Install app" seçilir.
+Saytın ana ekranı ürəkli, qırmızı-çəhrayı premium dizayna keçirilib. Günün ürək sözü bölməsində “Kamran-dan sənə ❤️” yazısı əlavə olunub.
 
-Hazırda işləyən:
-- 4 bölmə arasında keçid
-- 24 ayrı yeməkdən təsadüfi seçim
-- Gündəlik romantik cümlə (tarix və il göstərilmir)
-- Seriallar üçün YouTube axtarış keçidləri
-- Temu kateqoriya axtarış keçidləri
+Qorunan funksiyalar: 24 yeməkdən təsadüfi seçim, gündəlik sevgi sözləri, serial üçün YouTube axtarışları, Moda və Uşaq üçün Temu axtarış keçidləri.
 
-Hələ qoşulmayan:
-- YouTube API ilə rəsmi kanalların avtomatik izlənməsi və yeni bölüm bildirişləri
-- Məhsul kataloqunun avtomatik mənbədən gətirilməsi, real şəkil və qiymətlər
-- Yeməklərin internet şəkilləri
+GitHub-a yükləyərkən ZIP-i deyil, index.html, icon.svg, manifest.webmanifest, sw.js, README.md, README.txt və assets qovluğundakı 5 şəkli qoyun.
 
-Qeyd: ilkin siyahıdakı "Aovuz" yazılışı istifadəçinin mətnindəki kimi saxlanılıb; istəsə sonra düzəldilə bilər.
+Hələ avtomatik YouTube yenilikləri, Temu məhsul şəkilləri/qiymətləri və yemək internet şəkilləri bağlıdır.

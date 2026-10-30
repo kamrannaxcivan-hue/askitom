@@ -3,8 +3,8 @@
   "short_name": "Aşkitom",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#fffaf4",
-  "theme_color": "#8f3d58",
+  "background_color": "#fff5f7",
+  "theme_color": "#fae9ee",
   "icons": [
     {
       "src": "icon.svg",
@@ -12,5 +12,6 @@
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "description": "Kamran-dan sənə sevgi ilə hazırlanan Aşkitom."
 }
