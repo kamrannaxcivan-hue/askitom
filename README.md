@@ -1,0 +1,2 @@
+# askitom
+askitom- ozəl app 
